@@ -12,8 +12,10 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 9 do Boo
 Junto com o departamento de marketing, foi necessário compilar uma lista de hipóteses que poderiam ajudar a aumentar a receita.<br>
 Priorizou-se essas hipóteses, e foi lançado um teste A/B e análise dos resultados.<br>
 
-**Arquivos do Projeto:**
+**Sugestões para o futuro:** <br>
+Observar as diferenças entre teste qui-quadrado e teste de proporção z.
 
+**Arquivos do Projeto:**
 - projeto_sprint9.ipynb (caderno Jupyter)
 - hypotheses_us.csv (dataset)
 - orders_us.csv (dataset)
